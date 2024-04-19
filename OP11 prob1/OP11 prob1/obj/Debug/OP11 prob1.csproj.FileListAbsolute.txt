@@ -1,0 +1,10 @@
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\obj\Debug\OP11 prob1.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\obj\Debug\_11._2.Form1.resources
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\obj\Debug\OP11_prob1.Properties.Resources.resources
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\obj\Debug\OP11 prob1.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\obj\Debug\OP11 prob1.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\bin\Debug\OP11 prob1.exe.config
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\bin\Debug\OP11 prob1.exe
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\bin\Debug\OP11 prob1.pdb
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\obj\Debug\OP11 prob1.exe
+C:\Users\Саша\source\repos\OP11 prob1\OP11 prob1\obj\Debug\OP11 prob1.pdb

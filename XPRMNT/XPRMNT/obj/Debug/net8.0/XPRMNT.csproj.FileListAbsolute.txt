@@ -1,0 +1,14 @@
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\obj\Debug\net8.0\XPRMNT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\obj\Debug\net8.0\XPRMNT.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\obj\Debug\net8.0\XPRMNT.AssemblyInfo.cs
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\obj\Debug\net8.0\XPRMNT.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\bin\Debug\net8.0\XPRMNT.exe
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\bin\Debug\net8.0\XPRMNT.deps.json
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\bin\Debug\net8.0\XPRMNT.runtimeconfig.json
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\bin\Debug\net8.0\XPRMNT.dll
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\bin\Debug\net8.0\XPRMNT.pdb
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\obj\Debug\net8.0\XPRMNT.dll
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\obj\Debug\net8.0\refint\XPRMNT.dll
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\obj\Debug\net8.0\XPRMNT.pdb
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\obj\Debug\net8.0\XPRMNT.genruntimeconfig.cache
+C:\Users\Саша\source\repos\XPRMNT\XPRMNT\obj\Debug\net8.0\ref\XPRMNT.dll

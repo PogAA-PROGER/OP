@@ -1,0 +1,10 @@
+C:\Users\Саша\source\repos\OP10\OP10\bin\Debug\OP10.exe.config
+C:\Users\Саша\source\repos\OP10\OP10\bin\Debug\OP10.exe
+C:\Users\Саша\source\repos\OP10\OP10\bin\Debug\OP10.pdb
+C:\Users\Саша\source\repos\OP10\OP10\obj\Debug\OP10.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\OP10\OP10\obj\Debug\OP10.Properties.Resources.resources
+C:\Users\Саша\source\repos\OP10\OP10\obj\Debug\OP10.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\OP10\OP10\obj\Debug\OP10.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\OP10\OP10\obj\Debug\OP10.exe
+C:\Users\Саша\source\repos\OP10\OP10\obj\Debug\OP10.pdb
+C:\Users\Саша\source\repos\OP10\OP10\obj\Debug\OP10.Form1.resources

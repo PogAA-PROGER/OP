@@ -1,0 +1,14 @@
+C:\Users\Саша\source\repos\OP8\OP8\bin\Debug\net8.0\OP8.exe
+C:\Users\Саша\source\repos\OP8\OP8\bin\Debug\net8.0\OP8.deps.json
+C:\Users\Саша\source\repos\OP8\OP8\bin\Debug\net8.0\OP8.runtimeconfig.json
+C:\Users\Саша\source\repos\OP8\OP8\bin\Debug\net8.0\OP8.dll
+C:\Users\Саша\source\repos\OP8\OP8\bin\Debug\net8.0\OP8.pdb
+C:\Users\Саша\source\repos\OP8\OP8\obj\Debug\net8.0\OP8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\source\repos\OP8\OP8\obj\Debug\net8.0\OP8.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\OP8\OP8\obj\Debug\net8.0\OP8.AssemblyInfo.cs
+C:\Users\Саша\source\repos\OP8\OP8\obj\Debug\net8.0\OP8.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\OP8\OP8\obj\Debug\net8.0\OP8.dll
+C:\Users\Саша\source\repos\OP8\OP8\obj\Debug\net8.0\refint\OP8.dll
+C:\Users\Саша\source\repos\OP8\OP8\obj\Debug\net8.0\OP8.pdb
+C:\Users\Саша\source\repos\OP8\OP8\obj\Debug\net8.0\OP8.genruntimeconfig.cache
+C:\Users\Саша\source\repos\OP8\OP8\obj\Debug\net8.0\ref\OP8.dll
